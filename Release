@@ -1,0 +1,20 @@
+Origin: GreenappleBeta
+Label: GreenappleBeta
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: Static architecture manifest mapping suite indices.
+MD5Sum:
+ b7dd1bb6478044621f4615874d2bb7d7 423 Packages
+ b514a505a4e10981c9e29e0bb96f66eb 325 Packages.gz
+ b514a505a4e10981c9e29e0bb96f66eb 325 Packages.bz2
+SHA1:
+ 120896538e98120369e3e7569fa0f396f5753a66 423 Packages
+ 13dd771f8077804bc48bb520907f7b5e4d80e9d9 325 Packages.gz
+ 13dd771f8077804bc48bb520907f7b5e4d80e9d9 325 Packages.bz2
+SHA256:
+ 60ea9d034ccb29187039cde9b7183702ed0f626e4ed54cc970e934c26489eea7 423 Packages
+ 4ff199e394261701425809815474a4c2cbcba700bbfd7207d54b8063ee3c6a57 325 Packages.gz
+ 4ff199e394261701425809815474a4c2cbcba700bbfd7207d54b8063ee3c6a57 325 Packages.bz2
